@@ -1,4 +1,4 @@
-# 🏄‍♂️ LIVEcoder        
+# 🏄‍♂️ Lets CODE      
 
 # 💫 About Me:
 WHO AM I?, A tech enthusiast/developer/tester/hacker/admin with a strong focus on building scalable, efficient, and user‑centric solutions. My journey in technology has been driven by curiosity and a commitment to continuous learning. I enjoy working at the intersection of AI, cloud technologies, and modern web development, and I thrive on solving complex problems with clean, maintainable code.
